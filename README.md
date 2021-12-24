@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KhwahishY11 and currently I am pursuing B.Tech degree in IT from IGDTUW.
 - 👀 I’m interested in programming and cyber security related fields.
 - 🌱 I’m currently learning and exploring new things with high interest.
-- 📫 How to reach - me via mail !
 - Skills : C,C++,HTML,CSS.
 - Soft Skills : Respective & resourceful, adaptive & agile, strong organisational skills
 
